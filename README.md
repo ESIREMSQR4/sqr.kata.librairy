@@ -13,3 +13,5 @@ Faire un Fork de ce projet pour réaliser votre projet dans votre Github :
 Une fois le Projet finit faire un PULL_REQUEST...
 
 Si vous avez une question... voir le Wiki
+
+Henri Joel
