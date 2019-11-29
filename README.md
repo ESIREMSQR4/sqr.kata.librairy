@@ -14,5 +14,6 @@ Une fois le Projet finit faire un PULL_REQUEST...
 
 Si vous avez une question... voir le Wiki
 
-# Contributor
-Arthur Bachelet
+
+Guillaume est adopté
+
